@@ -7,7 +7,10 @@ const title = 'Home'
 const description = 'Astro-Ink is a crisp, minimal, personal blog theme for Astro'
 
 const allPosts = await Astro.glob('./blog/*.md')
-const posts = allPosts.slice(0,10)
+const sortedPosts = allPosts.sort((a, b) => {
+    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
+});
+const posts = sortedPosts.slice(0,10)
 ---
 <DefaultPageLayout content={{ title, description }} showPageHeader={false}>
     <PostPreviewList posts={posts} />
