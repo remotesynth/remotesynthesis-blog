@@ -13,9 +13,13 @@ export const NAV_ITEMS: NavItems = {
     path: "/tags",
     title: "tags",
   },
-  media: {
+  pubs: {
     path: "/publications",
     title: "publications",
+  },
+  presos: {
+    path: "/presentations",
+    title: "presentations",
   },
   about: {
     path: "/about",

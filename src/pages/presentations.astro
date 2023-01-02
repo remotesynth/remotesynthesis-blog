@@ -1,0 +1,11 @@
+---
+import DefaultPageLayout from '$/layouts/default.astro'
+import PresosPreviewList from '$/components/PresosPreviewList.astro'
+import presos from '$/data/presentations.json'
+
+let title = 'Presentations';
+let description = 'All my conference presentations.'
+---
+<DefaultPageLayout content={{ title, description }}>
+    <PresosPreviewList posts={presos} />
+</DefaultPageLayout>
