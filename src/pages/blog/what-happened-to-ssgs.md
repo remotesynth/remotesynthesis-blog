@@ -5,7 +5,7 @@ description: Many tools we still call SSGs don't produce static-only content.
 tags:
   - Jamstack
 author: Brian Rinaldi
-date: 2022-01-18T10:23:31.210Z
+date: 2022-01-19T10:23:31.210Z
 ---
 
 Sometimes the technology that a term refers to evolves beyond the literal meaning of the term. This post is about just such a case.
