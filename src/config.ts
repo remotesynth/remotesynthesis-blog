@@ -30,9 +30,9 @@ export const NAV_ITEMS: NavItems = {
 export const SITE = {
   // Your site's detail?
   name: "Remote Synthesis",
-  title: "Astro - Ink",
+  title: "Remote Synthesis",
   description: "The personal blog of Brian Rinaldi",
-  url: "https://astro-ink.vercel.app",
+  url: "https://remotesynthesis.com",
   mastodonUrl: "https://mastodon.xyz/@remotesynth",
   listDrafts: true,
   // description ?
