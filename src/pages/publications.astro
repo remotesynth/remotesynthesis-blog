@@ -1,0 +1,13 @@
+---
+import DefaultPageLayout from '$/layouts/default.astro'
+import PubsPreviewList from '$/components/PubsPreviewList.astro'
+import pubs from '$/data/publications.json'
+
+let title = 'Publications';
+let description = 'Articles, books and more.'
+
+const sortedPosts = pubs.sort((a, b) => new Date(b.date) - new Date(a.date))
+---
+<DefaultPageLayout content={{ title, description }}>
+    <PubsPreviewList posts={sortedPosts} />
+</DefaultPageLayout>

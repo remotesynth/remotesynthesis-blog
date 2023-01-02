@@ -1,0 +1,21 @@
+---
+import PubsPreview from './PubsPreview.astro'
+const { posts } = Astro.props
+---
+<section class="media-preview__list">
+    {posts.map((post) => (
+        <h2>{post.name}</h2>
+        <>{post.articles.map((pub) => (
+            <PubsPreview post={pub}/>
+        ))}</>
+    ))}
+</section>
+<style>
+    .media-preview__list {
+        @apply flex flex-col gap-12
+    }
+    .media-preview__list h2 {
+        font-size: 1.5em;
+        font-weight: 800;
+    }
+</style>
