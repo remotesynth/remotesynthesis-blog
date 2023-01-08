@@ -4,7 +4,7 @@ const { posts } = Astro.props
 ---
 <section class="media-preview__list">
     {posts.map((post) => (
-        <h2>{post.name}</h2>
+        <h2 class="dark:text-white">{post.name}</h2>
         <>{post.articles.map((pub) => (
             <PubsPreview post={pub}/>
         ))}</>
