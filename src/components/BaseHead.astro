@@ -1,4 +1,5 @@
 ---
+    import { GoogleAnalytics } from 'astro-google-analytics';
     import '@fontsource/fira-sans'
     import { SITE } from '$/config'
     import '../styles/global.css'
@@ -12,15 +13,7 @@
 
     const { title = SITE.title , description, permalink, image } = Astro.props as Props
 ---
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GPEW2GJGH7"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-GPEW2GJGH7');
-    </script>
+    <GoogleAnalytics id="G-GPEW2GJGH7" />
     <!-- Use Google Fonts, if you don't wanna prefer a self-hosted version -->
     <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
