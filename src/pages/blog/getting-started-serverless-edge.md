@@ -20,7 +20,7 @@ It can be confusing. In this post, I hope to help you get an overview of the var
 
 ## Categories of Edge Serverless
 
-As I mentined, part of the problem of evaluating edge serverless offerings is that you are often comparing two very different things that are labeled the same. To help clarify, I've created categories that I think best describe these offerings. They are:
+As I mentioned, part of the problem of evaluating edge serverless offerings is that you are often comparing two very different things that are labeled the same. To help clarify, I've created categories that I think best describe these offerings. They are:
 
 ### Core Edge Serverless
 
