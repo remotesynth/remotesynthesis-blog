@@ -34,7 +34,7 @@ Unlike corporate conferences, which are typically money-losing marketing expense
 
 If you've paid hundreds of dollars for a ticket, you may wonder how this can be less than the cost. Well, think about the cost of the venue, speakers (who, at any decent conference, have their travel and lodging costs covered at the very least), food, A/V, swag, etc. If you're curious, the single biggest cost in their is typically food. This is especially true as an event grows and has to use conference centers and hotels that can manage the capacity. Your tiny, crappy cup of black coffee often costs the same as a latte at Starbucks at a conference venue. That doesn't even account for guaranteed room blocks (i.e. the venue requires I fill a minimum number of rooms) or guaranteed minimum for food/drink.
 
-All of this means that the entirety of sponsorship revenue and a decent chunk of ticket revenue goes to covering costs. An organizer typically has to reach a minimum attendance before the event is profitable. Even a 10-20% drop in anticipated attendance can mean the difference between making money and loing a lot of it.
+All of this means that the entirety of sponsorship revenue and a decent chunk of ticket revenue goes to covering costs. An organizer typically has to reach a minimum attendance before the event is profitable. Even a 10-20% drop in anticipated attendance can mean the difference between making money and losing a lot of it.
 
 ## Where'd the audience go?
 
