@@ -40,7 +40,7 @@ Let me be clear that I am not judging anyone who stayed and who remains active. 
 
 Nonetheless, I'll admit that I didn't delete my account. I have over a decade worth of connections on there and losing access to DMs on Twitter was a price I was unwilling to pay just yet.
 
-On a more general level, activity on Twitter, while certainly not dead, seemed _way_ off its peak even back in December and engagement in tweets seemed even worse. I have no way to gauge it right now, but most folks I've talked to about it seem to imply that this remains fairly accurate. Even if it is still probably the most one of the most active places to engage developers, a large chunk of the audience appears to have left for places like Mastodon, LinkedIn and other venues. Even my occassional use of DMs shows has shown that there are many folks like myself who, even if their account is still active, very infrequently come back only to check messages.
+On a more general level, activity on Twitter, while certainly not dead, seemed _way_ off its peak even back in December and engagement in tweets seemed even worse. I have no way to gauge it right now, but most folks I've talked to about it seem to imply that this remains fairly accurate. Even if it is still probably the most one of the most active places to engage developers, a large chunk of the audience appears to have left for places like Mastodon, LinkedIn and other venues. Even my occassional use of DMs has shown that there are many folks like myself who, even if their account is still active, very infrequently come back only to check messages.
 
 ## The cost/benefit of losing Twitter
 
