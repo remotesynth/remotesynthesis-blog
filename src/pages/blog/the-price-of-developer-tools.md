@@ -13,7 +13,7 @@ Developers are passionate their tools. This is totally understandable. They inve
 
 Which brings us to the current debate about React. I won't rehash the debate, since I'm not here to argue over the pros and cons of React or other front-end frameworks. Suffice it to say, the debate has gotten pretty intense and, at times, has seemed pretty personal.
 
-This brought back paralells from my own career journey and some lessons that I learned in the aftermath.
+This brought back parallels from my own career journey and some lessons that I learned in the aftermath.
 
 ## The Rise and Fall of Flash and Flex
 
