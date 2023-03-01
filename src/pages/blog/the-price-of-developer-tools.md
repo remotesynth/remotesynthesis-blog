@@ -41,7 +41,7 @@ Beyond just React itself, many frontend developers have also deeply enmeshed the
 
 > It’s understandable that those of us who may have invested many years of practice with Swiss Army Knives (okay, JS mega stacks) would be reticent to leave them behind — they’re familiar, they’re comfortable, even if we recognize their shortcomings, and after all, we spent all that time honing our skills with them. 
 > 
-> - Cole Peters, [Redefining Developer Experience](https://begin.com/blog/posts/2023-02-28-redefining-developer-experience)
+> — Cole Peters, [Redefining Developer Experience](https://begin.com/blog/posts/2023-02-28-redefining-developer-experience)
 
 All this is to say, that it is understandable how turning back now can feel like starting over. While Alex Russell is not Steve Jobs (this is not a dig, I mean who is?), it makes sense to me why [posts like this](https://jamstack.email/link/135808/39ee9d46c5) would be perceived as an existential threat. We're telling them that everything I've been taught since day one of their career and the skills that that they've built are now "considered harmful".
 
