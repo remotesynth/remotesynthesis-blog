@@ -5,7 +5,7 @@ tags:
     - web development
 description: There are a ton of options for full stack web frameworks that don't use React. Let's explore some of them and why they are each unique.
 author: Brian Rinaldi
-date: 2023-05-17T10:23:31.210Z
+date: 2023-04-17T10:23:31.210Z
 ---
 
 As I discussed in [my last post](https://remotesynthesis.com/blog/the-price-of-developer-tools/), change can be difficult but it is often good to expand your horizons. If you've been thnking of exploring. the good news is that the past couple years have seen an explosion of tools that offer full-stack capabilities similar to Next.js or even Gatsby including server-side rendering and, in some cases, static site generation, but without relying on (or at least not entirely on) React, Vue or Angular. In this post, I want to look at a few options and what makes each of their approaches unique.
