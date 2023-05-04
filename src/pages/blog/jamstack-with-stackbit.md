@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Building and Deploying a JAMStack site with Stackbit
 description: A quick introduction to using the Stackbit service for creating a content-managed JAMStack site
 tags:
-  - Jamstack
+  - jamstack
   - web development
 author: Brian Rinaldi
 date: 2019-05-06T10:23:31.210Z

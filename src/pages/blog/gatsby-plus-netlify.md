@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: "What Netlify's Acquisition of Gatsby Really Means"
 tags:
-    - Jamstack
+    - jamstack
 description: It's not about the framework. It's about crossing the streams (of data)
 author: Brian Rinaldi
 date: 2023-02-07T10:23:31.210Z

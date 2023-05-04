@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: "Which Static Site Generator Should You Choose?"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: Which static site generator do I recommend? The simple answer is easy.
 author: Brian Rinaldi
 date: 2016-04-06T10:23:31.210Z

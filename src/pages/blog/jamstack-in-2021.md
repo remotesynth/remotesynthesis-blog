@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: What Is the Jamstack in 2021?
 description: What Jamstack means is evolving. While labels don't help you get your work done, they are also important.
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2020-12-28T10:23:31.210Z
 ---

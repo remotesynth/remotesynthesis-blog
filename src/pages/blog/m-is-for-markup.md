@@ -4,7 +4,7 @@ title: Markdown is Markup and Other Confusions Around JAMStack
 description: What makes a site JAMStack? A lot of it is in the M for markup.
 tags:
   - web development
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2019-09-13T10:23:31.210Z
 ---

@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: "Update Fails on ffi Install in Ruby"
 tags:
-    - Jamstack
+    - jamstack
 description: Saving you the headaches I had.
 author: Brian Rinaldi
 date: 2017-04-21T10:23:31.210Z

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title:  "A Guide to Building Static Sites with Jekyll"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: A walkthrough on building our first static site with Jekyll.
 author: Brian Rinaldi
 date: 2015-03-24T10:23:31.210Z

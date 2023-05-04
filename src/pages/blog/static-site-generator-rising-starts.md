@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: "Rising Stars for Static Site Generators in 2016"
 tags:
-    - Jamstack
+    - jamstack
 description: Probably not who you're expecting.
 author: Brian Rinaldi
 date: 2017-01-17T10:23:31.210Z

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: "Some Advanced Jekyll/Liquid Template Techniques"
 tags:
   - web development
-  - Jamstack
+  - jamstack
 description: This stuff was hard - for me at least!
 author: Brian Rinaldi
 date: 2015-10-02T10:23:31.210Z

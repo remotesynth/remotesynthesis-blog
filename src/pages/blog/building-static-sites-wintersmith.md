@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title:  "Building Static Sites with Node.js and Wintersmith"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: How to build your first static site with the Wintersmith generator.
 author: Brian Rinaldi
 date: 2015-04-08T10:23:31.210Z

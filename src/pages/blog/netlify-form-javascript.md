@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Submitting Netlify Forms Using JavaScript
 description: Submit a Netlify form asynchronously using JavaScript without jQuery.
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2020-07-06T10:23:31.210Z
 ---

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: The J in JAMstack Does Not Stand for React (or Angular, Vue, Svelte, etc.)
 description: Correcting what seems to be a common misconceptions about what makes an app JAMstack
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2020-02-20T10:23:31.210Z
 ---

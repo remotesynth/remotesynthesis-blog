@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title:  "Comparing Static Site Engines"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: A presentation and project for comparing static site generators.
 author: Brian Rinaldi
 date: 2015-03-04T10:23:31.210Z

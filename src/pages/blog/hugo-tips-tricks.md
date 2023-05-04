@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Quick Tips and Tricks for Hugo Development
 description: A look at some simple but overlooked as well as some advanced techniques for the Hugo static site generator.
 tags:
-  - Jamstack
+  - jamstack
   - web development
 author: Brian Rinaldi
 date: 2019-05-15T10:23:31.210Z

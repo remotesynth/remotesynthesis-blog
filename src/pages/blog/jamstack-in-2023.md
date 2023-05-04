@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: What is Jamstack in 2023?
 description: Yes, it's become extremely vague but the term still retains some value for developers.
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2023-01-16T10:23:31.210Z
 ---

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Is JAMstack All Branding and Little Substance?
 description: Is the JAMstack just fancy buzzword marketing or is there actual substance behind the term? I share my thoughts. 
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2020-02-18T10:23:31.210Z
 ---

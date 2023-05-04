@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title:  "Jekyll Versus the Competition"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: How does Jekyll stack up to other generators? I share my thoughts.
 author: Brian Rinaldi
 date: 2015-05-07T10:23:31.210Z

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title:  "Tools for Writing and Converting Markdown"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: Some useful tools for when you need to convert other formats to Markdown.
 author: Brian Rinaldi
 date: 2015-04-29T10:23:31.210Z

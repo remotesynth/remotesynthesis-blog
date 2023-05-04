@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: "Working with Static Sites Officially Available from O'Reilly"
 tags:
-    - Jamstack
+    - jamstack
 description: If you like the feel of print, you got it.
 author: Brian Rinaldi
 date: 2017-03-21T10:23:31.210Z

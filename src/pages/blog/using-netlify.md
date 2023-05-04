@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Using Netlify to the Fullest
 description: Finally taking advantage of some of the platform's more advanced features.
 tags:
-  - Jamstack
+  - jamstack
   - web development
 author: Brian Rinaldi
 date: 2019-06-14T10:23:31.210Z

@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: "Get Started with Static Site Generators"
 tags:
     - web development
-    - Jamstack
+    - jamstack
 description: A free report on static site development from O'Reilly.
 author: Brian Rinaldi
 date: 2015-09-25T10:23:31.210Z

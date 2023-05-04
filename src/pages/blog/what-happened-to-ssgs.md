@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: When an SSG Isn't Just an SSG, What Is It?
 description: Many tools we still call SSGs don't produce static-only content.
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2022-05-19T10:23:31.210Z
 ---

@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: "Working with Static Site Generators"
 tags:
-    - Jamstack
+    - jamstack
 description: A full book from O'Reilly devoted to building static sites.
 author: Brian Rinaldi
 date: 2017-01-10T10:23:31.210Z

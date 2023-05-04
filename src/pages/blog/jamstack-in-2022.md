@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: What is the Jamstack in 2022?
 description: Are we at risk of losing sight of what made Jamstack great?
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2022-01-18T10:23:31.210Z
 ---

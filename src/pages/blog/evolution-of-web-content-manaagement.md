@@ -4,7 +4,7 @@ title: The Evolution of Web Content Management
 description: A look at the evolution of web content management from the early days of the web to the headless, cloud-based CMS systems of today.
 tags:
   - web development
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2019-10-02T10:23:31.210Z
 ---

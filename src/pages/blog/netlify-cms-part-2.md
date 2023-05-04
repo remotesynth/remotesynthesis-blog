@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: A Fresh Look at Netlify CMS (Part 2)
 description: Configuring an existing site to use Netlify CMS
 tags:
-  - Jamstack
+  - jamstack
   - web development
 author: Brian Rinaldi
 date: 2019-05-01T10:23:31.210Z

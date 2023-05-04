@@ -3,7 +3,7 @@ layout: $/layouts/post.astro
 title: Thinking in Jamstack
 description: One of the more difficult things a new Jamstack developer can face is a change in mind set about when to render content.
 tags:
-  - Jamstack
+  - jamstack
 author: Brian Rinaldi
 date: 2021-01-21T10:23:31.210Z
 ---
