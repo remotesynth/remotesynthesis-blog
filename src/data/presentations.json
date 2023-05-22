@@ -1,9 +1,36 @@
 [
   {
+    "name": "September 2023",
+    "presentations": [
+      {
+        "title": "WaysConf - What You Need to Know About the Serverless Edge"
+      },
+      {
+        "title": "UtajJS - Get Your Web App Development in Shape with SvelteKit"
+      }
+    ]
+  },
+  {
+    "name": "July 2023",
+    "presentations": [
+      {
+        "title": "That Conference (Wisconsin) - Lifting Off with Astro"
+      }
+    ]
+  },
+  {
+    "name": "June 2023",
+    "presentations": [
+      {
+        "title": "KCDC - What You Need to Know About the Serverless Edge"
+      }
+    ]
+  },
+  {
     "name": "January 2023",
     "presentations": [
       {
-        "title": "That Conference Texas - Is the Jamstack still relevant in 2023?"
+        "title": "That Conference (Texas) - Is the Jamstack still relevant in 2023?"
       }
     ]
   },
@@ -27,7 +54,7 @@
     "name": "July 2022",
     "presentations": [
       {
-        "title": "That Conference - Feature Flagging is Just Simple Booleans: False"
+        "title": "That Conference (Wisconsin) - Feature Flagging is Just Simple Booleans: False"
       }
     ]
   },
