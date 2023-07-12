@@ -43,6 +43,15 @@
     ]
   },
   {
+    "name": "AWS Blog",
+    "articles": [
+      {
+        "title": "Simple and Flexible SaaS Entitlement Management with LaunchDarkly",
+        "URL": "https://aws.amazon.com/blogs/apn/simple-and-flexible-saas-entitlement-management-with-launchdarkly/"
+      }
+    ]
+  },
+  {
     "name": "Heavybit Blog",
     "articles": [
       {
