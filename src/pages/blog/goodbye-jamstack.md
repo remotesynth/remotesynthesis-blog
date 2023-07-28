@@ -54,6 +54,6 @@ Honestly, this is all ultimately has little impact on how developers do their jo
 
 I, myself, will likely retire using the term anymore, even as I don't have a replacement. I do think newsletters like [Jamstacked](https://jamstack.email/) (though probably with a new name) and events like [TheJam.dev](https://thejam.dev/) are still relevant for folks as they have recently tended to focus on full stack web development using JavaScript – so things like full-stack JavaScript ecosystem frameworks/tools and serverless and edge computing, none of which have become less relevant. We'll see how this continues to evolve and whether new terminology is created or even needed.
 
-The point is, the term is dead but the tools and technologies it encompassed are still very much alive.
+The point is, the term seems to be dead but the tools and technologies it encompassed are still very much alive.
 
 Goodbye, Jamstack. It was a fun.
