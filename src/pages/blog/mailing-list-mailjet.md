@@ -16,7 +16,7 @@ There are two ways you get subscribed to my mailing list. The first is through a
 
 ## Creating the Netlify Function
 
-Mailjet provides a [JavaScript SDK](https://github.com/mailjet/mailjet-apiv3-nodejs) that actually makes integrating with its API pretty easy. You'll need your Mailjet API key and secret key, which you can find in Mailjet under Account Settings and then choose "API Key Management (Primary and Sub-account)" under REST API. Place those in an enironment variable.
+Mailjet provides a [JavaScript SDK](https://github.com/mailjet/mailjet-apiv3-nodejs) that actually makes integrating with its API pretty easy. You'll need your Mailjet API key and secret key, which you can find in Mailjet under Account Settings and then choose "API Key Management (Primary and Sub-account)" under REST API. Place those in an environment variable.
 
 One quirk (to me) of Mailjet is that you can have contacts but if they aren't added to a list, then you can't send them campaigns. In order to add them to a list, you'll need the list ID, which you can find under Contacts  and then Contact Lists in your account. I didn't put this in an environment variable, though I could have. It's not sensitive info but that might make it easier to manage. However, it's worth noting that you can have multiple lists and may want to add the user to more than one.
 
