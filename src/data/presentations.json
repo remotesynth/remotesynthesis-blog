@@ -1,5 +1,19 @@
 [
   {
+    "name": "October 2023",
+    "presentations": [
+      {
+        "title": "QCON SF - Rethinking SaaS Entitlement Management with Feature Flags (co-presenter)"
+      },
+      {
+        "title": "All Things Open - What the Heck Are Server Sent Events?"
+      },
+      {
+        "title": "MetaCenter Glab Week - Closing the Skills Gap (Panel Moderator)"
+      }
+    ]
+  }
+  {
     "name": "September 2023",
     "presentations": [
       {
