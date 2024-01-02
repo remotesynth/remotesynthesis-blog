@@ -5,7 +5,7 @@ description: I make my (not so bold) predictions for 2024 around web development
 tags:
   - general
 author: Brian Rinaldi
-date: 2023-08-20T10:23:31.210Z
+date: 2024-01-02T10:23:31.210Z
 ---
 
 I enjoy reading folks predictions for the next year. Regardless of how accurate they ultimately are, I find them to be a good sense of where we stand from that person's unique perspective and areas of expertise. I've never done predictions before, but, at the risk of looking like a fool a year from now, I'm gonna give it a shot.
