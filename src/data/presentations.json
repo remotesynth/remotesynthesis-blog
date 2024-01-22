@@ -1,5 +1,16 @@
 [
   {
+    "name": "April 2024",
+    "presentations": [
+      {
+        "title": "DevNexus - What the Heck are Server Sent Events?"
+      },
+      {
+        "title": "Infobip Shift: Miami - Composable? Jamstack? Navigating the Buzzwords of Front-end Development"
+      }
+    ]
+  },
+  {
     "name": "October 2023",
     "presentations": [
       {
@@ -9,7 +20,7 @@
         "title": "All Things Open - What the Heck Are Server Sent Events?"
       },
       {
-        "title": "MetaCenter Glab Week - Closing the Skills Gap (Panel Moderator)"
+        "title": "MetaCenter Global Week - Closing the Skills Gap (Panel Moderator)"
       }
     ]
   },
