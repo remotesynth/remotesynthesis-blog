@@ -28,7 +28,7 @@ My side work building [CFE.dev](https://cfe.dev) and as President of [Orlando De
 
 ### CFE.dev
 
-I ran 4 virtual conferences (and emceed them all as well), 16 virtual meetups and hosted 7 episodes of DevRel(ish) in 2024 via CFE.dev. In addition, I supported Nick Taylor in his hosting of the 2 Full 2 Stack and Ray Camden hosting &lt;Code&gt; &lt;Br&gt; on the site (creating banners, posting episodes and managing promotion and technical logistics). In addition, until making the back in July to [shut down my Jamstacked newsletter](https://cfe.dev/jamstacked/110/), I'd released 15 issues in 2024.
+I ran 4 virtual conferences (and emceed them all as well), 16 virtual meetups and hosted 7 episodes of DevRel(ish) in 2024 via CFE.dev. In addition, I supported Nick Taylor in his hosting of the 2 Full 2 Stack and Ray Camden hosting &lt;Code&gt; &lt;Br&gt; on the site (creating banners, posting episodes and managing promotion and technical logistics). In addition, until making the decision back in July to [shut down my Jamstacked newsletter](https://cfe.dev/jamstacked/110/), I'd released 15 issues in 2024.
 
 It. Was. A. Lot.
 
