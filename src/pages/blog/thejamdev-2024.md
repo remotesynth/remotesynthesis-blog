@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: TheJam.dev 2024 - A Free, 2-day Virtual WebDev Conference
 tags:
-    - webde
+    - webdev
 description: We're less than a week away from the best event of the year. Ok, I'm biased, but take a look.
 author: Brian Rinaldi
 date: 2024-01-18T10:23:31.210Z
