@@ -16,7 +16,7 @@ So, while I gather my thoughts on what else besides AI developers (specifically 
 
 I'll start by admitting that, looking back, my predictions weren't particularly bold, so I plan to be tough on myself
 
-## 1. Developers Begin to Flee Complexity: C**
+## 1. Developers Begin to Flee Complexity: C
 
 This prediction was about developers dropping tools like Next.js and React, which continue to grow ever more complex in my opinion (especially with the move to the app router), and moving to things like Astro or Svelte. While there was a lot of anecdotal evidence I could cite of developer opinions seeming to shift, but that would feel like cherry picking confirmation. Instead, I'll rely on the [State of JavaScript survey](https://2024.stateofjs.com/en-US/). Yes, I'm aware of concerns around the demographics of who answers that survey and I am a skeptic of surveys in general (lol it's fair to say that I am just generally a skeptic), but it's the only recent data we have.
 
@@ -24,7 +24,7 @@ That survey did show [usage drop for React](https://share.stateofjs.com/share/pr
 
 I believe this is still a "work in progress." This isn't an easy shift to make. Changing frameworks on an existing project is a massive undertaking, but I think this year may confirm the slow decline we see in last year's data and the anecdotal evidence in blog posts and social media that opinions are shifting.
 
-## 2. AI Becomes Ubiquitous but a Lot of AI Tools Disappear: C-**
+## 2. AI Becomes Ubiquitous but a Lot of AI Tools Disappear: C-
 
 Even a year ago, the first half of this prediction was probably too obvious but I will grant myself some points in that it wasn't yet so obvious how broadly adopted they would become. There are [numerous](https://github.blog/news-insights/research/survey-reveals-ais-impact-on-the-developer-experience/) [surveys](https://share.stateofjs.com/share/prerendered?localeId=en-US&surveyId=state_of_js&editionId=js2024&blockId=ai_tools&params=&sectionId=other_tools) [that](https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report) show us closing in on near universal adoption of AI tools by developers. Tools like [Cursor](https://www.cursor.com/) exploded this year and with [GitHub Copilot now having a free tier](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/about-github-copilot-free), this will almost definitely continue unabated. In retrospect this all seems super obvious, but a year ago many developers were still feeling cautious about AI tools, so I'll grant myself a few points.
 
