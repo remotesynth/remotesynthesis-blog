@@ -8,8 +8,6 @@ author: Brian Rinaldi
 date: 2025-01-01T10:23:31.210Z
 ---
 
-# 
-
 2024 has been...uh...interesting. I hesitate to call it a good year (for me) as it presented a ton of personal and professional challenges, but everyone I love is safe and healthy and that counts for a lot.
 
 What 2024 was terrible for was blogging. I posted all of 5 posts all year on my personal blog (and honestly a couple of those were effortless announcement-type posts). Encouraged by the writing workshop on the [Wiggle Work community](https://wiggle.work/) (I encourage you to check them out), I hope to turn this around in 2025 starting with this year in review.
