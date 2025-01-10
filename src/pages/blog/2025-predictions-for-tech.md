@@ -22,7 +22,7 @@ In my view, the rise of AI and the continued tech job slump in an otherwise stro
 
 If you can call this good news, I don't expect the layoffs to continue as much in 2025. I feel as though companies are finally reaching a point where there may not be as much room for cuts. Many teams are running incredibly leanly.
 
-That being said, I expect employee benefits as well as diversity initiatives to continue to get pulled back. We've already seen the industry [bending the knee to the new administration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation) and also using the opportunity to end diversity programs. Yes, for many tech companies, the diversity initiatives were just performative, but it's becoming obvious that they don't feel pressure to show anymore (in fact, they are likely feeling the opposite pressure).
+That being said, I expect employee benefits as well as diversity initiatives to continue to get pulled back. We've already seen the industry [bending the knee to the new administration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation) and also using the opportunity to end diversity programs. Yes, for many tech companies, the diversity initiatives were just performative, but it's becoming obvious that they don't feel pressure to even just perform the show anymore (in fact, they are likely feeling the opposite pressure).
 
 **What can we do?**
 
