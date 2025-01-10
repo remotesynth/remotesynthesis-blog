@@ -24,6 +24,8 @@ If you can call this good news, I don't expect the layoffs to continue as much i
 
 That being said, I expect employee benefits as well as diversity initiatives to continue to get pulled back. We've already seen the industry [bending the knee to the new administration](https://www.theverge.com/2025/1/9/24340039/google-microsoft-trump-inauguration-donation) and also using the opportunity to end diversity programs. Yes, for many tech companies, the diversity initiatives were just performative, but it's becoming obvious that they don't feel pressure to even just perform the show anymore (in fact, they are likely feeling the opposite pressure).
 
+> After I drafted this, we've already seen [multiple](https://www.theverge.com/2025/1/10/24341016/amazon-winding-down-dei-programs) [reports](https://mashable.com/article/meta-ends-dei) of this already happening.
+
 **What can we do?**
 
 There's not a lot we can do but hunker down and push back against the worst instincts of the industry (and where possible within our own employers), while also lending a helping hand to our colleagues across the industry who's livelihood is threatened by layoffs or loss of benefits. 
