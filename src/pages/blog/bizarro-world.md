@@ -12,7 +12,7 @@ I am currently reading "[Thinking Fast and Slow](https://en.wikipedia.org/wiki/T
 
 Which leads me to Superman and Lex Luthor (yes, that was a Superman reference in the title and, yes, for better or worse, you are getting a peak into how my mind works – yay! Free association!). At one point in the Superman universe (even in the mainstream timeline), [Lex Luthor becomes President of the United States](https://dc.fandom.com/wiki/President_Luthor). Lex, a known supervillain, runs a populist campaign to become POTUS. He is actually mostly competent until, of course, he goes insane and tries to kill Superman.
 
-At the time, this seemed like a preposterous concept (the well-known supervillain becoming President part, not the going crazy and trying to kill Superman part...that part was totally on brand for Luther). Those were the days.
+At the time, this seemed like a preposterous concept (the well-known supervillain becoming President part, not the going crazy and trying to kill Superman part...that part was totally on brand for Luthor). Those were the days.
 
 Despite what may seem like parallels to today, in the real world, we don't seem to have anyone nearly competent enough to be a supervillain either leading our government or even in the shadow government made up largely of tech billionaires (who, we can admit, have largely been exposed as far less competent than even most pessimists would have previously thought). 
 
