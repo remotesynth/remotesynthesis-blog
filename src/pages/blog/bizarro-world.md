@@ -14,7 +14,7 @@ Which leads me to Superman and Lex Luthor (yes, that was a Superman reference in
 
 At the time, this seemed like a preposterous concept (the well-known supervillain becoming President part, not the going crazy and trying to kill Superman part...that part was totally on brand for Luther). Those were the days.
 
-In the real world, we don't seem to have anyone nearly competent enough to be a supervillain either leading our government or even in the shadow government made up largely of tech billionaires (who, we can admit, have largely been exposed as far less competent than even most pessimists would have previously thought). 
+Despite what may seem like parallels to today, in the real world, we don't seem to have anyone nearly competent enough to be a supervillain either leading our government or even in the shadow government made up largely of tech billionaires (who, we can admit, have largely been exposed as far less competent than even most pessimists would have previously thought). 
 
 The problem I struggle with is that impulse to fit the abnormal into normal paradigms as Kahneman discussed. We are in a bizarro world where sometimes it feels like nothing is normal, but everything fits within the preexisting structures of normality. We seem incapable of grasping the scale to which the existing structures are merely a normal facade on a completely abnormal world.
 
