@@ -17,9 +17,10 @@ First, some caveats. I am intentionally choosing to be opinionated rather than g
 
 ## Should DevRel be in marketing or product?
 
-The correct answer is neither. Put it in the Office of the CTO or some other independent org structure. This prevents DevRel from being an expensive team that doesn't directly contribute to the top line organizational goal – leads in the case of marketing or direct product contributions in the case of product/engineering. When times are good, this disconnect is ignored, but when times are bad...and times are bad.
+The correct answer is neither. Put it in the Office of the CTO or some other independent org structure. This prevents DevRel from being an expensive team that doesn't directly contribute to the top line organizational goal – leads in the case of marketing or direct product contributions in the case of product/engineering. When times are good, this disconnect is ignored, but when times are bad... (and, if you hadn't noticed, times are bad.)
 
 The realistic answer is that it doesn't really matter. Ultimately, whichever department you land in requires alignment with leadership on the role and goals of DevRel. Ideally, the company leadership understands the importance of DevRel (sadly a lot don't) and/or you have a champion for it amongst leadership. If you have those, I've seen DevRel thrive regardless of the team. If you don't, it ultimately won't matter where you report.
+
 ## What activities should DevRel be involved in?
 
 The span of things DevRel has contributed to in my years of experience is massive. Here's just some:
