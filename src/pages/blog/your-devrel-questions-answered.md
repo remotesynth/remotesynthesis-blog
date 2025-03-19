@@ -68,7 +68,7 @@ I'd work similarly for events. Setting goals around the number of attendees is a
 So, this was less brief than I'd hoped but just to note that I think you need to come up with ways to monitor the impact of your work. Using content as an example again, traffic can help you identify which topics and types of content resonate with your audience, but it should be one of a number of data points that can help guide you rather than the end goal.
 ## Is DevRel Marketing?
 
-I love questions like this. Is "thing with fungible definition" also "thing with fungible definition?"
+I love questions like this. Is "thing with fuzzy definition" also "thing with equally fuzzy definition?"
 
 The correct answer is yes, more or less. The spectrum of activities that the term marketing refers to has substantial overlap with the spectrum of activities that DevRel refers to - enough that describing DevRel as marketing is reasonably accurate, as both terms are fairly fuzzy anyway.
 
