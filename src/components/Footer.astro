@@ -1,17 +1,23 @@
 ---
-    import { SITE } from '$/config'
-    import ModeLabel from './ModeLabel.svelte'
-    import NetlifyIdentity from './NetlifyIdentity.svelte'
+import { SITE } from '$/config';
+import ModeLabel from './ModeLabel.svelte';
+import NetlifyIdentity from './NetlifyIdentity.svelte';
 ---
+
 <footer class="footer">
-    <nav class="nav dark:text-white">
-        <div>2023  &copy; Copyright notice |  <a href={ SITE.githubUrl } title={`${ SITE.name }'s Github URL'`}>{ SITE.name }</a>
-        <ModeLabel client:load/> theme.
-        <NetlifyIdentity client:load/>
-    </nav>
-</footer>
-<style>
+  <nav class="nav dark:text-white">
+    <div>
+      2025 &copy; Copyright notice | <a
+        href={SITE.githubUrl}
+        title={`${SITE.name}'s Github URL'`}>{SITE.name}</a
+      >
+      <ModeLabel client:load /> theme.
+      <NetlifyIdentity client:load />
+    </div>
+  </nav>
+  <style>
     .footer {
-        @apply py-6 border-t
+      @apply py-6 border-t;
     }
-</style>
+  </style>
+</footer>
