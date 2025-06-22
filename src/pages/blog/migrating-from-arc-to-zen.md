@@ -57,7 +57,8 @@ I'll be honest, I don't use a lot of extensions, but you may need to change some
 
 I did not face any significant roadblocks other than minor UX confusions. In Arc, I'd usually enable the plugin via biometric authentication that would be opened automatically when trying to access login information on a page. In Zen, I've so far had to enable this by clicking the small extensions icon in the upper left-hand corner of the browser (looks like a puzzle piece), then clicking 1Password and finally logging in with my password. This flow also seems to repeat far more often (i.e. needing to authenticate 1Password) than I recall it happening in Arc.
 
-I have not yet been able to get biometric authentication to work. However, while researching this post, I have just tried enabling Zen as a trusted browser in 1Password (as it is not a default trusted browser) to see if that might smooth the workflow a bit. That aside, once I adjusted to the different login workflow, everything worked fine for me.
+To get biometric authentication to work, you need to enable Zen as a trusted browser in 1Password as laid out in the instructions linked above (it is not a default trusted browser) which makes the workflow just like Arc.
+
 ### Keyboard Shortcuts
 
 I am also not a heavy user of keyboard shortcuts for everything but there were a few that I relied on heavily in Arc:
